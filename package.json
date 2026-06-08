@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/w3schools-submissions/tutorials-typescript/issues"
   },
-  "homepage": "https://github.com/w3schools-submissions/tutorials-typescript#readme"
+  "homepage": "https://github.com/w3schools-submissions/tutorials-typescript#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
